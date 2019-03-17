@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:300,400');
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+    background: #333;
+    color: whitesmoke;
+}
+
+button{
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 400;
+    border-radius: 100px;
+    border: 0;
+    padding: 10px 15px;
+    margin: 0 5px;
+}
+
+.countheader{
+    font-weight: 300;
+}
+
+.header{
+    background: #444;
+    margin: 0;
+    padding: 0;
+}
+
+.header > h1{
+    margin: 0;
+    padding: 10px 0;
+}
+
+.header > h4{
+    margin: 0;
+    padding: 10px 0;
+}
+
+.resetbutton{
+    background: #ff3636;
+    color: white;
+}
